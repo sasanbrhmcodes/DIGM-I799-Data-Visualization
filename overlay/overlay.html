@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Biometric Data Overlay</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Biometric Data Overlay</h1>
+        <div>
+            <input type="checkbox" id="hr-checkbox" checked> HR
+            <input type="checkbox" id="gsr-checkbox" checked> GSR
+        </div>
+        <div id="chart-container">
+            <svg id="chart"></svg>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="overlayScript.js"></script>
+</body>
+</html>

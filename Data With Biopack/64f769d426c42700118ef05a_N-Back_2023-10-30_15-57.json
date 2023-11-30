@@ -1,0 +1,5594 @@
+{
+"messages" : [
+{
+    "timeStamp": "2023-10-30T15:57:15.5621369-04:00",
+    "key": "Starting N-Back Trial",
+    "value": {
+        "Value": "1-back trial 1",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:15.7594609-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 319.217407226563,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:16.0759832-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 319.534393310547,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:16.3769005-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 319.834716796875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:16.6929306-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 320.151672363281,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:16.9938057-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 320.451995849609,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:17.2944061-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 320.752258300781,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:17.5945133-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 321.052581787109,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:17.9110127-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 321.369567871094,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:18.2118083-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 321.669860839844,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:18.5281238-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 321.986846923828,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:18.8288170-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 322.287139892578,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:19.1291170-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 322.587493896484,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:19.4459068-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 322.904418945313,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:19.7459668-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 323.204711914063,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:20.0464716-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 323.505035400391,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:20.3465943-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 323.805328369141,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:20.6473595-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 324.105621337891,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:20.9474877-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 324.405914306641,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:21.2812293-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 324.739593505859,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:21.5979463-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 325.056671142578,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:21.8986367-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 325.356842041016,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:22.1988077-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 325.657135009766,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:22.4991213-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 325.957763671875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:22.7992903-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 326.257781982422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:23.1001507-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 326.558044433594,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:23.4002898-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 326.858337402344,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:23.7003804-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 327.158630371094,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:24.0005731-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 327.458953857422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:24.3014620-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 327.759246826172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:24.6016584-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 328.059539794922,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:24.9019801-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 328.35986328125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:25.2189148-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 328.676818847656,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:25.5191664-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 328.977111816406,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:25.5698570-04:00",
+    "key": "Correctly missed an N-Back",
+    "value": {
+        "Value": "Current Number: 4 ; N-Back Number: 1",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:25.8194226-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 329.277435302734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:26.1364384-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 329.594390869141,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:26.4367807-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 329.894714355469,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:26.7530537-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 330.211700439453,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:27.0537924-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 330.511993408203,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:27.3707546-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 330.828979492188,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:27.6876820-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 331.145965576172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:28.0208397-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 331.479614257813,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:28.3221156-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 331.779907226563,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:28.6381279-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 332.096893310547,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:28.9388450-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 332.397186279297,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:29.2389415-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 332.697479248047,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:29.5390477-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 332.997772216797,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:29.8400572-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 333.298065185547,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:30.1401139-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 333.598388671875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:30.4403609-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 333.898681640625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:30.7404087-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 334.199005126953,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:31.0413708-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 334.499298095703,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:31.3415844-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 334.799591064453,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:31.5750893-04:00",
+    "key": "Correctly missed an N-Back",
+    "value": {
+        "Value": "Current Number: 1 ; N-Back Number: 4",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:31.6417656-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 335.099884033203,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:31.9582595-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 335.416870117188,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:32.2592794-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 335.717163085938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:32.5594251-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 336.017456054688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:32.8596883-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 336.317749023438,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:33.1599137-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 336.618072509766,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:33.4766057-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 336.935028076172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:33.7768710-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 337.2353515625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:34.0771500-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 337.53564453125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:34.3778001-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 337.8359375,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:34.6779307-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 338.13623046875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:34.9946474-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 338.453216552734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:35.2947561-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 338.753509521484,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:35.5951132-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 339.053833007813,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:35.6789376-04:00",
+    "key": "N-Back Correct",
+    "value": {
+        "Value": "Current Number: 1 ; N-Back Number: 1 ; Reaction Time: 4.099997",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:35.8961575-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 339.354095458984,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:36.1963184-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 339.654388427734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:36.5127913-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 339.971405029297,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:36.8129762-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 340.271697998047,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:37.1136872-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 340.571990966797,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:37.4140745-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 340.872314453125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:37.7142544-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 341.172607421875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:38.0144984-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 341.472900390625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:38.3319959-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 341.789855957031,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:38.6489620-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 178.0,
+                "Time": 0.0
+            }
+        },
+        "time": 342.106872558594,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:38.9491073-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 342.407165527344,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:39.2496208-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 342.707458496094,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:39.5497852-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 343.007751464844,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:39.8666763-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 343.324737548828,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:40.1670880-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 343.625030517578,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:40.4006599-04:00",
+    "key": "N-Back Incorrect",
+    "value": {
+        "Value": "Current Number: 4 ; N-Back Number: 1",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:40.5000712-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 343.958679199219,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:40.8006424-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 344.258972167969,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:41.1012823-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 344.559295654297,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:41.4181753-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 344.876281738281,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:41.7182048-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 345.176574707031,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:42.0182456-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 345.476867675781,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:42.3191536-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 345.777160644531,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:42.6194820-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 346.077484130859,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:42.9366666-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 346.394439697266,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:43.2531764-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 346.71142578125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:43.5699101-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 347.028411865234,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:43.8707522-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 347.328735351563,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:44.1710164-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 347.629028320313,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:44.4880401-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 347.945983886719,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:44.8216701-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 348.279663085938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:45.1220557-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 348.579956054688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:45.4385534-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 348.896942138672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:45.7393161-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 349.197235107422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:46.0563607-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 349.514221191406,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:46.3727679-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 349.831176757813,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:46.6737194-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 350.131500244141,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:46.8570105-04:00",
+    "key": "N-Back Correct",
+    "value": {
+        "Value": "Current Number: 4 ; N-Back Number: 4 ; Reaction Time: 3.259998",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:46.9738859-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 350.431793212891,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:47.2740297-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 179.0,
+                "Time": 0.0
+            }
+        },
+        "time": 350.732116699219,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:47.5902949-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 180.0,
+                "Time": 0.0
+            }
+        },
+        "time": 351.049102783203,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:47.8908299-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 180.0,
+                "Time": 0.0
+            }
+        },
+        "time": 351.349395751953,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:48.1918224-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 181.0,
+                "Time": 0.0
+            }
+        },
+        "time": 351.649688720703,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:48.5080287-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 181.0,
+                "Time": 0.0
+            }
+        },
+        "time": 351.966674804688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:48.8085561-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 352.266967773438,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:49.1087766-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 352.567260742188,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:49.4095087-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 352.867553710938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:49.7097793-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 353.167846679688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:50.0265444-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 353.484832763672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:50.3266899-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 353.785125732422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:50.6267281-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 354.08544921875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:50.9272287-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 354.385711669922,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:51.2280279-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 354.686004638672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:51.5280960-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 354.986328125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:51.8286455-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 355.28662109375,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:52.1287987-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 355.586944580078,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:52.4459709-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 355.903900146484,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:52.7795364-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 356.237579345703,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:53.0965696-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 356.554534912109,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:53.4130485-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 356.871551513672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:53.7137159-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 357.171844482422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:53.7466281-04:00",
+    "key": "N-Back Incorrect",
+    "value": {
+        "Value": "Current Number: 2 ; N-Back Number: 4",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:54.0137488-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 357.472137451172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:54.3140571-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 357.772430419922,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:54.6149057-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 358.07275390625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:54.9149464-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 358.373046875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:55.2314601-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 358.690032958984,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:55.5317139-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 358.990325927734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:55.8320650-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 359.290588378906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:56.1326967-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 359.590911865234,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:56.4331376-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 359.891204833984,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:56.7494470-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 360.208190917969,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:57.0504306-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 360.508483886719,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:57.3669459-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 360.825469970703,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:57.6674250-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 361.125762939453,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:57.9680330-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 361.426055908203,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:58.0009578-04:00",
+    "key": "N-Back Correct",
+    "value": {
+        "Value": "Current Number: 2 ; N-Back Number: 2 ; Reaction Time: 2.399998",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:58.3018975-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 361.759735107422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:58.6183605-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 362.076721191406,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:58.9185623-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 362.377014160156,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:59.2192795-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 362.677307128906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:59.5360867-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 362.994323730469,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:57:59.8364748-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 184.0,
+                "Time": 0.0
+            }
+        },
+        "time": 363.294586181641,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:00.1530624-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 363.611572265625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:00.4540085-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 363.911865234375,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:00.7702604-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 364.228851318359,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:01.0709085-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 364.529144287109,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:01.3711635-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 364.829437255859,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:01.6717571-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 365.129760742188,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:01.9717842-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 365.430053710938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:02.2718192-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 365.730346679688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:02.5891609-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 366.047332763672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:02.8892982-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 366.347625732422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:03.1896882-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 366.647918701172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:03.4899521-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 366.9482421875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:03.8066558-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 367.265197753906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:03.9574555-04:00",
+    "key": "N-Back Incorrect",
+    "value": {
+        "Value": "Current Number: 4 ; N-Back Number: 2",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:04.1072848-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 367.565521240234,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:04.4410076-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 367.899169921875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:04.7414336-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 368.199493408203,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:05.0417398-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 368.499786376953,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:05.3585441-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 368.816741943359,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:05.6590684-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 369.117034912109,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:05.9595390-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 369.417327880859,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:06.2757045-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 369.734344482422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:06.5759326-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 370.034637451172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:06.8769619-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 370.334930419922,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:07.1939076-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 370.651916503906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:07.4940727-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 370.952209472656,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:07.7944971-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 371.252502441406,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:08.0945168-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 371.552825927734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:08.3947043-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 371.853088378906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:08.6950029-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 372.153381347656,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:08.9957627-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 372.453704833984,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:09.3128903-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 372.770690917969,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:09.6129997-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 373.070983886719,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:09.9295710-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 373.387969970703,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:10.0965274-04:00",
+    "key": "N-Back Incorrect",
+    "value": {
+        "Value": "Current Number: 2 ; N-Back Number: 4",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:10.2463363-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 373.704956054688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:10.5466945-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 374.005249023438,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:10.8473228-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 374.305572509766,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:11.1804696-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 374.639221191406,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:11.4811651-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 374.939514160156,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:11.7817357-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 375.239807128906,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:12.0987704-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 375.557281494141,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:12.4150330-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 375.873931884766,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:12.7161099-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 376.174072265625,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:13.0331786-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 376.491058349609,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:13.3496022-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 376.808044433594,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:13.6497626-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 377.108337402344,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:13.9506765-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 377.408630371094,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:14.2670935-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 377.725616455078,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:14.5677725-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 378.025909423828,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:14.8680568-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 378.326385498047,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:15.2014654-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 378.659881591797,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:15.5181141-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 378.976867675781,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:15.8191861-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 379.277160644531,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:16.1354432-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 379.594116210938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:16.2358407-04:00",
+    "key": "N-Back Correct",
+    "value": {
+        "Value": "Current Number: 2 ; N-Back Number: 2 ; Reaction Time: 2.619998",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:16.4357223-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 379.894439697266,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:16.7366404-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 380.194732666016,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:17.0371420-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 380.495056152344,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:17.3539619-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 380.81201171875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:17.6708127-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 381.128997802734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:17.9872862-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 381.445983886719,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:18.2877994-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 381.746276855469,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:18.5878482-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 382.046600341797,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:18.8884825-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 382.346893310547,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:19.1887796-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 382.647186279297,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:19.4893413-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 382.947479248047,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:19.8063709-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 383.264434814453,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:20.1393279-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 383.598114013672,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:20.4398708-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 383.8984375,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:20.7408889-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 384.198699951172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:21.0576599-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 384.515716552734,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:21.3578893-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 384.816009521484,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:21.6248675-04:00",
+    "key": "Game Message",
+    "value": {
+        "Value": "2-Back Trial Finished, Correct = 4, Incorrect = 4, Sequence: 124144344343, Correct Log: 1110101001",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:21.6749634-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 385.132965087891,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:21.9921675-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 385.449981689453,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:22.3083107-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 385.766937255859,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:22.6088619-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 386.067230224609,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:22.9090142-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 386.367553710938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:23.2099294-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 386.667846679688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:23.5099985-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 183.0,
+                "Time": 0.0
+            }
+        },
+        "time": 386.968139648438,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:23.8271813-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 387.285125732422,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:24.1272883-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 387.585418701172,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:24.4612278-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 387.919067382813,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:24.7775357-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 388.236083984375,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:25.0784343-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 388.536376953125,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:25.3787410-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 388.836669921875,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:58:25.6957003-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": null,
+                "dataValue": 0.0,
+                "Value": 182.0,
+                "Time": 0.0
+            }
+        },
+        "time": 389.153625488281,
+        "$type": "Enablegames.BiometricData"
+    }
+},

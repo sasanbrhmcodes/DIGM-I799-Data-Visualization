@@ -1,0 +1,38 @@
+/* Add styles for the checkbox labels */
+.label {
+  display: inline-block;
+  width: 120px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+/* Style the graph container */
+#chart {
+  width: 100%;
+  height: 600px;
+}
+
+/* Style the lines for HR and GSR */
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+/* Style the axis */
+.axis path,
+.axis line {
+  fill: none;
+  shape-rendering: crispEdges;
+}
+
+/* Style the axis labels */
+.axis text {
+  font-size: 14px;
+}
+
+/* Style the chart title */
+#chart-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}

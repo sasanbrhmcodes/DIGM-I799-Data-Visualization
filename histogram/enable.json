@@ -1,0 +1,34 @@
+{
+"messages" : [
+{
+    "timeStamp": "2023-09-12T14:01:14.9088847-04:00",
+    "key": "Player Speed",
+    "value": {
+        "Value": "5",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-09-12T14:01:14.9088847-04:00",
+    "key": "Player X Position",
+    "value": {
+        "Value": "0.9000012",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-09-12T14:01:14.9088847-04:00",
+    "key": "Player Z Position",
+    "value": {
+        "Value": "-0.3659999",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-09-12T14:01:14.9088847-04:00",
+    "key": "Time Left (in seconds)",
+    "value": {
+        "Value": "299.6618",
+        "$type": "Enablegames.EnableString"
+    }
+},

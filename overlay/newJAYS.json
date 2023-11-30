@@ -1,0 +1,84 @@
+{
+"messages" : [
+{
+    "timeStamp": "2023-10-30T15:56:10.9149626-04:00",
+    "key": "Starting N-Back Trial",
+    "value": {
+        "Value": "0-back trial 1",
+        "$type": "Enablegames.EnableString"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:56:11.0949087-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": 65.0,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": 55.0,
+                "dataValue": 0.0,
+                "Value": 176.0,
+                "Time": 0.0
+            }
+        },
+        "time": 254.553100585938,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:56:11.3954875-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": 43.0,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values": 34.0,
+                "dataValue": 0.0,
+                "Value": 176.0,
+                "Time": 0.0
+            }
+        },
+        "time": 254.853393554688,
+        "$type": "Enablegames.BiometricData"
+    }
+},
+{
+    "timeStamp": "2023-10-30T15:56:11.6956862-04:00",
+    "key": "Biometric Data",
+    "value": {
+        "data": {
+            "HR": {
+                "Dimension": 0,
+                "Values": 35.0,
+                "dataValue": 0.0,
+                "Value": 0.0,
+                "Time": 0.0
+            },
+            "GSR": {
+                "Dimension": 0,
+                "Values":75.0,
+                "dataValue": 0.0,
+                "Value": 176.0,
+                "Time": 0.0
+            }
+        },
+        "time": 255.153686523438,
+        "$type": "Enablegames.BiometricData"
+        }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bar Chart with D3.js</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Add any additional styles here */
+        body {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .chart {
+            padding: 20px;
+            margin-left: 50px;
+        }
+
+        .bar-container {
+            display: flex;
+            align-items: flex-end;
+            position: relative; /* Add relative positioning */
+        }
+
+        .bar {
+            width: 50px;
+            background-color: steelblue;
+            margin-right: 20px; /* Adjust space between bars */
+            position: relative;
+        }
+
+        .highest {
+            background-color: lightblue;
+        }
+
+        .circle {
+            width: 40px; /* Adjust circle size */
+            height: 40px; /* Adjust circle size */
+            border-radius: 50%;
+            border: 2px solid steelblue;
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+        }
+
+        .label {
+            text-align: center;
+            font-size: 12px;
+            position: absolute;
+            bottom: -20px;/* Adjust margin for spacing */
+            left: 0;
+            right: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="chart" id="chart"></div>
+    <script src="script.js"></script>
+</body>
+
+</html>
